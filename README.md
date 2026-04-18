@@ -21,5 +21,7 @@ I build scalable products, AI-powered tools, and startup MVPs.
 - Scaling startup ideas
 
 ## 🌍 Let's Connect
-- GitHub: https://github.com/yourusername
-- LinkedIn: (если есть)
+- X: https://x.com/georgiibuilds
+- LinkedIn: https://www.linkedin.com/in/georgii-borisov
+
+![Zember007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zember007&theme=gruvbox&hide_border=true)
