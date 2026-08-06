@@ -1,4 +1,4 @@
-# Hi, I'm Egor 👋
+# Hi, I'm Georgii 👋
 
 Full-Stack Engineer
 I build scalable products, AI-powered tools, and startup MVPs.
