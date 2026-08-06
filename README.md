@@ -1,6 +1,6 @@
 # Hi, I'm Egor 👋
 
-Full-Stack Engineer → CTO  
+Full-Stack Engineer
 I build scalable products, AI-powered tools, and startup MVPs.
 
 ## 🚀 About Me
@@ -22,8 +22,4 @@ I build scalable products, AI-powered tools, and startup MVPs.
 
 ## 🌍 Let's Connect
 - X: https://x.com/georgiibuilds
-- LinkedIn: https://www.linkedin.com/in/georgii-borisov
-
-![Zember007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zember007&theme=gruvbox&hide_border=true)
-
-![Zember007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zember007&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+- LinkedIn: [https://www.linkedin.com/in/georgii-borisov](https://www.linkedin.com/in/georgii-borisov1/)
