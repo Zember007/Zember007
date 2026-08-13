@@ -1,10 +1,9 @@
 # Hi, I'm Georgii 👋
 
-Full-Stack Engineer
+Tehnical product manager
 I build scalable products, AI-powered tools, and startup MVPs.
 
 ## 🚀 About Me
-- Full-Stack Developer with CTO experience
 - Building AI-driven products
 - Startup & product mindset
 - Remote-first developer
